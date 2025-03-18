@@ -4,5 +4,11 @@
         "nome": "salário",
         "valor": "R$ 3.000,00",
         "data": "10/03/2025"
+    },
+    {
+        "tipo": "Receita",
+        "nome": "uykyuk",
+        "valor": "R$ 222,22",
+        "data": "23/33/3333"
     }
 ]
