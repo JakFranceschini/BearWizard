@@ -1,12 +1,6 @@
 [
     {
         "tipo": "Receita",
-        "nome": "uykyuk",
-        "valor": "R$ 222,22",
-        "data": "23/33/3333"
-    },
-    {
-        "tipo": "Receita",
         "nome": "salario",
         "valor": "R$ 3.000,00",
         "data": "22/22/2222"
