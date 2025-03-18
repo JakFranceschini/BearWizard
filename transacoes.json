@@ -10,5 +10,11 @@
         "nome": "salario",
         "valor": "R$ 3.000,00",
         "data": "22/22/2222"
+    },
+    {
+        "tipo": "Receita",
+        "nome": "qwdqwdqw",
+        "valor": "R$ 55,55",
+        "data": "55/55/5555"
     }
 ]
